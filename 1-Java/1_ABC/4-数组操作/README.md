@@ -265,7 +265,7 @@ public class Main {
 > 错误的方式：
 > - `String[][] arr4 = new String[][4];`
 > - `String[4][3] arr5 = new String[][];`
-> - `int[][] arr6 = new int[4][3]{{1,2,3},{4,5},{6,7,8}};`
+> - `int[][] arr6 = new int[4][3]{[1,2,3],[4,5],[6,7,8]};`
 
 ### ② 如何调用数组的指定位置的元素
 
@@ -275,7 +275,7 @@ public class Main {
 
 ### ③ 如何获取数组的长度
 ```java
-	int arr4[][] = new int[][]{{1,2,3},{4,5},{6,7,8}};
+	int arr4[][] = new int[][]{[1,2,3],[4,5],[6,7,8]};
   
 	System.out.println(arr4.length); //3
 	System.out.println(arr4[0].length); //3
