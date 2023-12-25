@@ -252,7 +252,7 @@ public class Main {
 
 ```java
   //静态初始化
-	int[][] arr1 = new int[][]{{1,2,3},{4,5},{6,7,8}};
+	int[][] arr1 = new int[][]{[1,2,3],[4,5],[6,7,8]};
 
   //动态初始化1
 	String[][] arr2 = new String[3][2];//三行二列
