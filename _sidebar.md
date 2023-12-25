@@ -6,7 +6,7 @@
 - [☕ Java](/1-Java/README.md)
 - [🗂️ SQL](/2-SQL/README.md)
 - [⚖️ 算法与数据结构](/3-ALDS/README.md)
-- [🫥 HTML/CSS](/4-HTMLCSS/README.md)
+- [✏️ HTML/CSS](/4-HTMLCSS/README.md)
 - [🎨 设计模式](/5-DP/README.md)
 - [🐱 Git](/11-Git/README.md)
 - [📩 MQ](/12-MQ/README.md)
