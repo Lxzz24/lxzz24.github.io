@@ -1,4 +1,4 @@
-<p style="text-align: center;"><a href="#/1-Develop/Java/README.md">
+<p style="text-align: center;"><a href="#/2-SQL/README.md">
   <img src="/2-SQL/LXF/assets/difference_between_sql_and_mysql.jpg" width=100%/>
 </a></p>
 

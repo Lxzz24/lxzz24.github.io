@@ -1,3 +1,7 @@
+<p style="text-align: center;"><a href="#/2-SQL/README.md">
+  <img src="/2-SQL/LXF/assets/difference_between_sql_and_mysql.jpg" width=100%/>
+</a></p>
+
 - [01. MySQL 架构与历史](/2-SQL/high-performance/01/README.md)
   - [1](/2-SQL/high-performance/01/01.md)
   - [2](/2-SQL/high-performance/01/02.md)

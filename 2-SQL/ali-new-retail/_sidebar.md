@@ -1,3 +1,7 @@
+<p style="text-align: center;"><a href="#/2-SQL/README.md">
+  <img src="/2-SQL/LXF/assets/difference_between_sql_and_mysql.jpg" width=100%/>
+</a></p>
+
 - [开门见山](/2-SQL/ali-new-retail/01/)
 - [前置准备](/2-SQL/ali-new-retail/02/)
     - [新零售业务介绍](/2-SQL/ali-new-retail/02/01.md)

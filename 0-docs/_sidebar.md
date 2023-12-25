@@ -1,4 +1,4 @@
-+ [💎 docsify中文文档](/0-docs/docsify/_readme.md)
++ [💎 docsify中文文档](/0-docs/docsify/README.md)
   + 入门
     - [快速开始](/0-docs/docsify/quickstart.md)
     - [多页文档](/0-docs/docsify/morepages.md)
@@ -6,7 +6,7 @@
     - [封面](/0-docs/docsify/cover.md)
   + 定制化
     - [配置项](/0-docs/docsify/configuration.md)
-    - [主题](/0-docs/docsify/themes.md)s
+    - [主题](/0-docs/docsify/themes.md)
     - [插件列表](/0-docs/docsify/plugins.md)
     - [开发插件](/0-docs/docsify/writeaplugin.md)
     - [Markdown 配置](/0-docs/docsify/markdown.md)

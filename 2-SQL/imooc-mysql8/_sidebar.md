@@ -1,3 +1,7 @@
+<p style="text-align: center;"><a href="#/2-SQL/README.md">
+  <img src="/2-SQL/LXF/assets/difference_between_sql_and_mysql.jpg" width=100%/>
+</a></p>
+
 - [序言](/2-SQL/imooc-mysql8/01.md)
 - [技术选型之数据库选型](/2-SQL/imooc-mysql8/02/README.md)
 - [数据库设计](/2-SQL/imooc-mysql8/03/README.md)

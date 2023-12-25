@@ -1,4 +1,4 @@
-<p style="text-align: center;"><a href="#/1-Develop/Java/README.md">
+<p style="text-align: center;"><a href="#/12-MQ/README.md">
   <img src="/12-MQ/assets/rabbitmq.png" swidth=100%/>
 </a></p>
 
